@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Andrews on Chris Andrews</title>
+    <link>https://chrisandrewsedu.github.io/</link>
+    <description>Recent content in Chris Andrews on Chris Andrews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Motivating engaged participation and generative learning in online learning contexts</title>
+      <link>https://chrisandrewsedu.github.io/publication/motivating-engaged-participation-online/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisandrewsedu.github.io/publication/motivating-engaged-participation-online/</guid>
+      <description>&lt;!--#Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Student self-assessment: Teachers&#39; definitions, reasons, and beliefs (Masters thesis)</title>
+      <link>https://chrisandrewsedu.github.io/publication/teachers-and-student-self-assessment/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisandrewsedu.github.io/publication/teachers-and-student-self-assessment/</guid>
+      <description>&lt;!--#Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
