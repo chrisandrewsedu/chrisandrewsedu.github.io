@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Chris Andrews</title>
+    <link>https://chrisandrewsedu.github.io/project/</link>
+    <description>Recent content in Projects on Chris Andrews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://chrisandrewsedu.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Assessment Literacy</title>
+      <link>https://chrisandrewsedu.github.io/project/assessment-literacy/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://chrisandrewsedu.github.io/project/assessment-literacy/</guid>
+      <description>This project is just starting. More information will be posted later.</description>
+    </item>
+    
+    <item>
+      <title>Expansive Framing Online</title>
+      <link>https://chrisandrewsedu.github.io/project/ef-online/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://chrisandrewsedu.github.io/project/ef-online/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
